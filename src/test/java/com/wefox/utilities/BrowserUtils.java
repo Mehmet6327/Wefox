@@ -82,6 +82,7 @@ public class BrowserUtils {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
     }
 
     /**
